@@ -1,4 +1,4 @@
-# Fantasy Football Player Predictor
+# La Liga Performance Predictor
 
 A web application to predict and analyze LaLiga fantasy football player performance using machine learning, Django (backend), and Vue.js (frontend).
 
@@ -28,13 +28,13 @@ A web application to predict and analyze LaLiga fantasy football player performa
    ```
    pip install -r requirements.txt
    ```
-4. **Run migrations:**
+4. **Open project folder:**
    ```
-   py manage.py migrate
+   cd backend_project
    ```
 5. **Start the server:**
    ```
-   py manage.py runserver
+   python manage.py runserver
    ```
 
 ### Frontend
@@ -58,7 +58,15 @@ A web application to predict and analyze LaLiga fantasy football player performa
 
 - Access the frontend at [http://localhost:5173/](http://localhost:5173/)
 - The backend API runs at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-- Search for players, view stats, and see predictions.
+- Search for players, view stats, see predictions and enjoy.
+
+---
+
+## Demo
+
+Watch a demo of the app here:
+
+[https://vimeo.com/1113281948](https://vimeo.com/1113281948)
 
 ---
 
@@ -73,7 +81,7 @@ A web application to predict and analyze LaLiga fantasy football player performa
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
