@@ -1,0 +1,7 @@
+Django>=5.1.1
+django-cors-headers
+requests
+bs4
+joblib
+numpy
+scikit-learn
